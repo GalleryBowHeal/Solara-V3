@@ -1,0 +1,10 @@
+*.exe
+*.zip
+*.dll
+*.pdb
+SolaraV3/
+C:/SolaraV3/
+__pycache__/
+.vs/
+Desktop.ini
+Thumbs.db
